@@ -102,7 +102,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "DashCon2Romania.com"
+url-pretty: "MyWebsite.com"
 
 # Add the website title to the title of every page
 title-on-all-pages: true
@@ -136,17 +136,17 @@ navbar-var-length: false
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
-page-col: "#fffae2"
-text-col: "#202c43"
-link-col: "#1e81b0"
-hover-col: "#1e81b0"
-navbar-col: "#fffdf8"
-navbar-text-col: "#7f79a3"
+page-col: "#FFFFFF"
+text-col: "#404040"
+link-col: "#008AFF"
+hover-col: "#0085A1"
+navbar-col: "#EAEAEA"
+navbar-text-col: "#404040"
 navbar-border-col: "#DDDDDD"
-footer-col: "#202c43"
-footer-text-col: "#fffae2"
-footer-link-col: "#1e81b0"
-footer-hover-col: "#7f79a3"
+footer-col: "#EAEAEA"
+footer-text-col: "#777777"
+footer-link-col: "#404040"
+footer-hover-col: "#0085A1"
 
 # Alternatively, the navbar, footer, and page background can be set to an image
 # instead of colour
@@ -260,13 +260,13 @@ date_format: "%B %-d, %Y"
 #################################################################################
 
 # Output options (more information on Jekyll's site)
-timezone: "Romania/Bucharest"
+timezone: "America/Toronto"
 markdown: kramdown
 highlighter: rouge
-permalink: /:day-:month-:year-:title/
+permalink: /:year-:month-:day-:title/
 paginate: 5
 
-:
+kramdown:
   input: GFM
 
 # Default YAML values (more information on Jekyll's site)
@@ -301,5 +301,5 @@ plugins:
   - jekyll-sitemap
 
 # Beautiful Jekyll / Dean Attali
-# 2fc73a3a967e97599c9763d05e564189
+# 2fc73a3a967e97599c9763d05e564189# 2fc73a3a967e97599c9763d05e564189
 
