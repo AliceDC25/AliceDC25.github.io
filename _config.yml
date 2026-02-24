@@ -52,19 +52,19 @@ round-avatar: true
 social-network-links:
   email: "someone@example.com"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  facebook: aa
-  github: aa
-  twitter: aa
-  patreon: aaa
-  youtube: "@daattali"
-  whatsapp: 15551212
+#  facebook: aa
+#  github: aa
+#  twitter: aa
+#  patreon: aaa
+#  youtube: "@daattali"
+#  whatsapp: 15551212
 #  medium: yourname
 #  reddit: yourname or r/yoursubreddit
 #  linkedin: daattali
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
-#  instagram: deanat78
+  instagram: aa
 #  spotify: yourname
 #  telephone: +14159998888
 #  steam: deanat78
@@ -96,13 +96,13 @@ rss-description: DashCon 2 Romania website. News and updates about the event!
 share-links-active:
   twitter: true
   facebook: true
-  linkedin: true
+  linkedin: false
   vk: false
-  reddit: false
+  reddit: true
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"
+# url-pretty: "MyWebsite.com"
 
 # Add the website title to the title of every page
 title-on-all-pages: true
