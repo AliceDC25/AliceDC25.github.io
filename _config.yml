@@ -52,9 +52,12 @@ round-avatar: true
 social-network-links:
   email: "someone@example.com"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  instagram: addlater
-  tiktok: addlater
-  tumblr: addlater
+  facebook: aa
+  github: aa
+  twitter: aa
+  patreon: aaa
+  youtube: "@daattali"
+  whatsapp: 15551212
 #  medium: yourname
 #  reddit: yourname or r/yoursubreddit
 #  linkedin: daattali
@@ -91,9 +94,9 @@ rss-description: DashCon 2 Romania website. News and updates about the event!
 
 # Select which social network share links to show in posts
 share-links-active:
-  instagram: true
-  tiktok: true
-  tumblr: true
+  twitter: true
+  facebook: true
+  linkedin: true
   vk: false
   reddit: false
 
